@@ -16,7 +16,7 @@ import { defineConfig } from 'astro/config';
 // If you have a domain, you can configure it as follows
 // -------------------------------------------------------------
 export default defineConfig({
-    site: 'https://template.miketroll.es', // Change this field to your domain URL
+    site: 'https://template.miketroll.me', // Change this field to your domain URL
     base: '/', // Leave it as '/' if you have a domain. And you should start with "/" when you put a link. 
                     // E.g., <a href="/contact">Contact</a> 
     output: 'static',
